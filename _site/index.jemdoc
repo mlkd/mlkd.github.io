@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Guanqun Yang
+== Master Student in UCLA ECE Department
+
+~~~
+{}{img_left}{image/avatar.jpg}{alt text}{117}{155}{http://guanqun-yang.github.io}
+My name is Guanqun Yang (杨冠群), and I am a master student in [https://www.ee.ucla.edu/ Electrical and Computer Engineering] at [http://www.ucla.edu/ UCLA]. 
+
+My research interest is statistical machine learning and its applications. I was advised by [http://faculty.neu.edu.cn/ise/zhangyunzhou/En_index.html Prof. Yunzhou Zhang] and used to be working on pose estimation of mobile robots. I received my Bachelor's degree in Automatic Control from [https://www.neu.edu.cn/ Northeastern University, China] in 2017.
+
+Currently I am actively looking for research opportunities in related areas. My CV could be found [cv/2018-9.pdf here].
+~~~
+
+== Recent Activities 
+- \[12\/25\/2018\] I migrate and optimize my previous notes and host them on [https://machine-learning-wiki.readthedocs.io/en/latest/ Read the Docs], the world's largest open-source documentation hosting service (previously my notes were on GitBook). This effort is the /best/ Christmas gift for me since my notes finally find their home!
+- \[12\/12\/2018\] I present my work in fairness-preserving machine learning. Check out my presentation slide [paper/fairness_slide.pdf here].
+
+== Contact
+- Email: [guanqun.yang@engineering.ucla.edu] or [guanqun.yang@outlook.com]
+- You could also find me on [https://github.com/guanqun-yang GitHub]

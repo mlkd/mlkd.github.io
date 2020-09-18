@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{courses.html}, nofooter
+= Guanqun Yang
+== Master Student in UCLA ECE Department
+
+The following is a list of courses I am taking or have taken at UCLA and Northeastern University, China.
+
+== UCLA Courses
+=== Electrical and Computer Engineering Courses
+- ECE 146, Introduction to Machine Learning by [https://www.ee.ucla.edu/suhas-diggavi/ Prof. Suhas Diggavi]
+- ECE 205A, Matrix Analysis by Dr. Ameesh Pandya
+- ECE 214A, Digital Speech Processing by [https://www.ee.ucla.edu/abeer-alwan/ Prof. Abeer Alwan]
+- ECE 219, Large-scale Data Mining: Models and Algorithms by [http://www.vwaniroychowdhury.com/ Prof. Vwani P. Roychowdhury]
+- ECE 230A, Detection and Estimation in Communication by [https://www.ee.ucla.edu/kung-yao/ Prof. Kung Yao]
+- ECE 231A, Information Theory by [https://www.ee.ucla.edu/suhas-diggavi/ Prof. Suhas Diggavi]
+- ECE 232E, Large Scale Social and Complex Networks: Design and Algorithms by [http://www.vwaniroychowdhury.com/ Prof. Vwani P. Roychowdhury]
+- ECE 236A, Linear Programming by [https://www.ee.ucla.edu/christina-fragouli/ Prof. Christina Fragouli]
+- ECE 236B, Convex Optimization by [http://www.seas.ucla.edu/~vandenbe/ Prof. Lieven Vandenberghe]
+- ECE 239AS, Special Topics in Signals and Systems: Neural Networks and Deep Learning by [https://www.ee.ucla.edu/jonathan-kao/ Prof. Jonathan Kao]
+
+=== Statistics Courses
+- STAT 202A, Statistical Programming by [http://www.stat.ucla.edu/~ywu/ Prof. Ying Nian Wu]
+- STAT 232C, Cognitive Artificial Intelligence by [http://www.stat.ucla.edu/~taogao/ Prof. Tao Gao]
+
+=== Computer Science Courses
+- CS 260, Machine Learning Algorithms by [http://web.cs.ucla.edu/~qgu/ Prof. Quanquan Gu]
+- CS 269, Current Topics in Artificial Intelligence by [http://web.cs.ucla.edu/~qgu/ Prof. Quanquan Gu]
+
+== Northeastern University (China) Courses
+=== Maths Courses
+- Univariate and Multivariate Calculus
+- Probability Theory and Mathematical Statistics
+- Linear Algebra (+one of my favourite courses+)
+- Complex Analysis and Integral Transform
+- Numerical Analysis
+- Mathematical Modeling (+another fascinating course+)
+=== Computer Science Courses
+- Principle of Micro-Controllers
+- C Programming
+- Algorithm and Data Structures
+- Introduction to Evolutionary Computating
+=== Signal and Circuits Courses
+- Principle of Circuits
+- Principle of Analog Circuits
+- Principle of Digital Circuits
+- Digital Signal Processing
+- Principle of Electric Machines and their Drives
+=== Control Courses
+- Principle of Automatic Control
+- Modern Control Theory
+- Process Control Theory
+- Control System of Electric Drives
+- Programmable Logic Controllers and its Applications

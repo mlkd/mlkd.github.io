@@ -1,0 +1,56 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+= Guanqun Yang
+== Master Student in UCLA ECE Department
+
+== Publications
+- Research on RS-485 Bus Application in Multiple PC Distributed Monitor System of Centrifual Pump Station (in Chinese)\n
+  Guanqun Yang, /Fluid Machinery, 2014/ \[[paper/rs485.pdf Full Text in Chinese]\]
+
+== Preprints
+- Space Debris Terminator, a Comprehensive Approach\n
+  Guanqun Yang, Binzhe Li, Jiwei Liu, /Mathematical Contest in Modeling, 2016/
+  \[[paper/mcm_2016.pdf Full Text]\]
+- Design and Implementation of Speaker Similarity Estimation System based on UCLA Variablity Database\n
+  Yucong Wang, Jingjing Zhang, Guanqun Yang, Zhengtao Zhou, ECE 214A Course Project, Winter 2018
+  \[[paper/speech.pdf Full Text]\]
+- Fairness: What is the Right Thing to Do? A Comparative Study of Fairness-Preserving Algorithms\n
+  Guanqun Yang, CS 260 Course Project, Fall 2018
+  \[[paper/fairness_slide.pdf Presentation Slide]\]\-\[[paper/fairness_paper.pdf Full Text]\]
+
+== Thesis
+- Pose Estimation of Mobile Robots Based on the Integration of IMU and Vision (in Chinese)\n
+ /Bachelor Thesis, Northeastern University (China), 2017/ \[[paper/undergraduate_thesis.pdf Full Text in Chinese]\]-\[[paper/undergraduate_thesis_abstract.pdf Abstract in English]\]
+
+== An Overview of Machine Learning Conferences
+I originally wanted to put this article into my [http://machine-learning-wiki.readthedocs.io blog]. However, I cound not find a good fit with my blog sections with the main aim of this article. Eventually, I decided to put this article here, hoping it could serve two purposes:
+
+- Reflection: re-evaluate my previous work in terms of their quality, novelty and popularity because of the correlation with the three factors of a paper and the prestige of a venue where it is actually shown to your colleagues.
+- Motivation: motivate me to work harder and publish more in those prestigious venues.
+=== Computer Science Conferences Birdview
+~~~
+{}{img_left}{image/conference.png}{alt text}{600}{400}{http://guanqun-yang.github.io/publications.html}
+The message from this image is quite clear without any further explanations. (credits to [http://www.kamishima.net/ Prof. Toshihiro Kamishima], who is a pioneer in fairness-preserving machine learning.)
+
+What is little surprising is that machine learning research shares such a large portion of all computer science conferences and it seems that machine learning has become a dominant field. This intution turns out to be a little biased and referring a more comprehensive ranking of computer science conferences (see [https://webdocs.cs.ualberta.ca/~zaiane/htmldocs/ConfRanking.html here]) might help.
+~~~
+
+=== Top-Tier Machine Learning Conferences
+This is basically a more organized version of Prof. Yisong Yue's [https://www.quora.com/What-are-the-best-conferences-and-journals-about-machine-learning answer] on Quora, together with some additional information taken elsewhere. 
+
+The characterization of a conference mainly focuses on three aspects, i.e. attendance, topics and prestige (what I call "ATP" for short). Therefore, a coarse rating of some well-known conferences look like the following
+~~~
+{}{table}{Rating of Some Machine Learning Conferences}
+Index  |Conference   |Attendance     |Topics      |Prestige     |Note||
+1      |NeuralPS     |High           |Wide        |High         |    ||
+2      |ICML         |High           |Wide        |High         |    ||
+3      |KDD          |High           |Wide        |High         |More focuses on new applications than basic methodology   ||
+4      |AISTATS      |Medium         |Medium      |High         |Scale is limited because of smaller range of topics   ||
+6      |UAI          |Medium         |Medium      |High         |Scale is limited because of smaller range of topics    ||
+7      |COLT         |Low            |Narrow      |High         |Learning theory    ||
+8      |ICLR         |Low            |Narrow      |High         |Deep learning    ||
+9      |AAAI         |High           |Very Wide   |Medium       |    ||
+10     |IJCAI        |High           |Very Wide   |Medium       |    
+~~~
+
+
+
